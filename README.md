@@ -1,6 +1,32 @@
 # Python_Diwali_Sales_Analysis
 
-project learning -
-1) Perform data cleaning and manipulation
-2) Perform explolatory data analysis (EDA) using pandas, matplotlib and seaborn libraries
-3) Improve customer experience by identifying potential customer across different states,occupation gender and age group
+This project analyzes Diwali sales data to identify trends and patterns in customer behavior, 
+sales by category, and top-performing regions using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+
+
+Installation Instructions:
+# Clone the repository
+git clone https://github.com/Jagrattt23/Python_Diwali_Sales_Analysis.git
+
+# Navigate to the project directory
+cd Diwali_Sales_Analysis
+
+# Install dependencies
+pip install -r requirements.txt
+
+
+Usage:
+Run the script for analysis
+python diwali_sales_analysis.py
+
+
+Features and Analysis:
+-Explored sales patterns by gender and age groups.
+-Identified the top-performing regions and states.
+
+
+
+
+
+
+
