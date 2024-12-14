@@ -22,7 +22,7 @@ python diwali_sales_analysis.py
 
 Features and Analysis:
 -Explored sales patterns by gender and age groups.
--Identified the top-performing regions and states.
+-Identified the top-performing regions and states..
 
 
 
